@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3939
     wikipedia: http://en.wikipedia.org/wiki/Alice_Duer_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14835#The-Burglar-and-the-Blizzard--A-Christmas-Story
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2005-01-29'
 gutenberg_type: Text
